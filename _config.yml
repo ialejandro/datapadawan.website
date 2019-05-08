@@ -37,7 +37,7 @@ footer-links:
   instagram:
   linkedin: ialejandro
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: https://datapadawan.com/feed.xml
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
   twitter: datapadawan
